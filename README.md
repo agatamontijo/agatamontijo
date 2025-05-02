@@ -1,16 +1,26 @@
-## Hi there 👋
+# Ágata Montijo
 
-<!--
-**agatamontijo/agatamontijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, sou estudante de **Engenharia da Computação**.  
 
-Here are some ideas to get you started:
+## Habilidades em desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/Java-ec63a1?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ec63a1?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-ec63a1?style=for-the-badge&logo=c&logoColor=white)
+
+
+## Estou aprendendo
+
+![PHP](https://img.shields.io/badge/PHP-ec63a1?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ec63a1?style=for-the-badge&logo=javascript&logoColor=black)
+## Ferramentas
+
+![Git](https://img.shields.io/badge/Git-ec63a1?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-ec63a1?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+## 📫Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ec63a1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1gata-montijo-9989bb1ba)
+[![Instagram](https://img.shields.io/badge/Instagram-ec63a1?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_usuario)
+[![Discord](https://img.shields.io/badge/Discord-ec63a1?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/seu_usuario)
