@@ -2,10 +2,9 @@
 
 Olá, sou estudante de **Engenharia da Computação**.  
 
-## Habilidades em desenvolvimento
+## Habilidades 
 
 ![Java](https://img.shields.io/badge/Java-ec63a1?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-ec63a1?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-ec63a1?style=for-the-badge&logo=c&logoColor=white)
 
 
@@ -13,6 +12,7 @@ Olá, sou estudante de **Engenharia da Computação**.
 
 ![PHP](https://img.shields.io/badge/PHP-ec63a1?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ec63a1?style=for-the-badge&logo=javascript&logoColor=black)
+
 ## Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-ec63a1?style=for-the-badge&logo=git&logoColor=white)
